@@ -6,4 +6,4 @@
 
 html5 css3 JS <br>
 
-![](MusicPlayer.gif)
+![](Musicplayer.gif)
